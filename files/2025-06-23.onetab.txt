@@ -1,0 +1,139 @@
+https://www.zybuluo.com/mdeditor#2560972 | ★2024.9月集中复习 - 作业部落 Cmd Markdown 编辑阅读器
+https://www.zybuluo.com/mdeditor#2603195 | 31.A - 作业部落 Cmd Markdown 编辑阅读器
+https://www.zybuluo.com/mdeditor#52-%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E8%AE%BE%E5%A4%87%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86-%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%9C%8D%E5%8A%A1%E6%82%A8%E4%BC%9A%E6%80%8E%E4%B9%88%E5%81%9A | ★2025.4月.集中复习 (for A) - 作业部落 Cmd Markdown 编辑阅读器
+https://www.zybuluo.com/mdeditor#4%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1%E4%B8%AD%E5%A6%82%E4%BD%95%E6%8B%86%E8%A7%A3%E6%A8%A1%E5%9D%97%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B9%E6%B3%95%E8%AE%BA%E6%8C%87%E5%AF%BC | 2025.6月 - 作业部落 Cmd Markdown 编辑阅读器
+https://www.zybuluo.com/mdeditor#2537831 | ★D2 架构-设计原则、设计模式 - 作业部落 Cmd Markdown 编辑阅读器
+https://www.google.com.hk/search?q=IOT%E8%A1%8C%E4%B8%9A%E8%AE%BE%E5%A4%87%E7%AB%AF%E6%B6%88%E6%81%AF%E4%B8%8A%E6%8A%A5%E6%9E%B6%E6%9E%84&oq=IOT%E8%A1%8C%E4%B8%9A%E8%AE%BE%E5%A4%87%E7%AB%AF%E6%B6%88%E6%81%AF%E4%B8%8A%E6%8A%A5%E6%9E%B6%E6%9E%84&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE4NzI2ajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | IOT行业设备端消息上报架构 - Google 搜索
+https://blog.csdn.net/AIoT2688/article/details/129422711 | IoT物联网平台运行监控最佳实践——设备管理运维类_lot设备管理页面-CSDN博客
+https://www.emqx.com/zh/blog/mqtt-topic-design-for-internet-of-vehicles | 车联网 TSP 平台场景中的 MQTT 主题设计 | EMQ
+https://www.emqx.com/zh/blog/million-level-message-throughput-architecture-design-for-internet-of-vehicles | 车联网平台百万级消息吞吐架构设计 | EMQ
+https://www.emqx.com/zh/blog/build-a-one-stop-iot-data-solution-with-emqx-and-polardb-x | EMQX + PolarDB-X 构建一站式物联网数据解决方案 | EMQ
+https://zhuanlan.zhihu.com/p/595865566 | 阿里云物联网平台技术解读与实践 - 知乎
+https://www.google.com.hk/search?q=%E6%99%BA%E6%85%A7%E6%B6%88%E9%98%B2%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84&oq=%E6%99%BA%E6%85%A7%E6%B6%88%E9%98%B2%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDkxNTBqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | 智慧消防技术架构 - Google 搜索
+https://www.gdliontech.cn/wenda/19.html | 智慧消防系统架构介绍（智慧消防系统架构设计包括哪些内容）-产品问答-河南力安测控科技有限公司
+http://res.dm.dzng.com/data1/zycf/2023/12/19/51979d7b9dfadcb7a758cd7c15a90e16.pdf | 51979d7b9dfadcb7a758cd7c15a90e16.pdf
+https://www.google.com.hk/search?q=%E5%BE%AE%E4%BF%A1%E7%BD%91%E9%A1%B5%E7%89%88&oq=%E5%BE%AE%E4%BF%A1%E7%BD%91%E9%A1%B5%E7%89%88&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD3SAQg2NDA2ajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | 微信网页版 - Google 搜索
+https://www.google.com.hk/search?q=Kafka%2BFlink%E7%9A%84%E6%9E%B6%E6%9E%84%E5%A5%BD%E5%A4%84&oq=Kafka%2BFlink%E7%9A%84%E6%9E%B6%E6%9E%84%E5%A5%BD%E5%A4%84&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE4MDE3ajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | Kafka+Flink的架构好处 - Google 搜索
+https://www.cnblogs.com/smartloli/p/10963221.html | 基于Kafka的实时计算引擎如何选择？Flink or Spark？ - 哥不是小萝莉 - 博客园
+http://www.uml.org.cn/bigdata/202112271.asp?artid=24771 | 基于 Flink + Kafka 的实时数仓建设实践-大数据
+https://nibp.manpowergrc.com/reimbursementHeader.htm?call=list_object&time=1750650771013 | 报销 | Manpower
+http://edge-node-2.lda1.azure.asml.com:8080/document-store/ | Virtual Computing Platform
+https://www.google.com.hk/search?q=xml+string+%E5%A6%82%E4%BD%95%E8%BD%AC%E6%8D%A2%E6%88%90org.w3c.dom.Document&oq=xml+string+%E5%A6%82%E4%BD%95%E8%BD%AC%E6%8D%A2%E6%88%90org.w3c.dom.Document&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTI3ODEyajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | xml string 如何转换成org.w3c.dom.Document - Google 搜索
+https://blog.csdn.net/zp357252539/article/details/100014744 | org.w3c.dom document 和xml 字符串 互转_xml dom document 相互转换-CSDN博客
+https://blog.csdn.net/alsyuan/article/details/73229311 | DOM方式进行的XML文件、Document、String之间的相互转换-CSDN博客
+https://www.cnblogs.com/sharpest/p/11555783.html | org.w3c.dom document 和xml 字符串 互转 - Sharpest - 博客园
+https://github.com/XugangXie/xxg-img-repo/tree/main | XugangXie/xxg-img-repo: 个人公共图片仓库
+https://www.google.com/search?q=%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88+%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E5%B8%88+%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%E6%9E%B6%E6%9E%84%E5%B8%88&oq=%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%B8%88+%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E5%B8%88+%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%E6%9E%B6%E6%9E%84%E5%B8%88&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE0NDUxajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | 系统架构师 应用架构师 有哪几种架构师 - Google 搜索
+https://zhuanlan.zhihu.com/p/371543638 | 架构师的分类及其职能 - 知乎
+
+https://www.cnblogs.com/liwenchao1995/p/16690010.html | oracle docker部署19c - liwenchao1995 - 博客园
+https://www.google.com/search?q=sqlplus+%2F+as+sysdba+%E8%BF%9E%E6%8E%A5oracle&oq=sqlplus+%2F+as+sysdba+%E8%BF%9E%E6%8E%A5oracle&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEzOTkxajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | sqlplus / as sysdba 连接oracle - Google 搜索
+https://blog.csdn.net/MssGuo/article/details/114286682 | sqlplus连接Oracle的正确语法_sqlplus连接oracle命令-CSDN博客
+https://www.cnblogs.com/wanghongyun/p/6307408.html | sqlplus连接的三种方式 - 王鸿云 - 博客园
+https://www.google.com/search?q=sqlplus+%E8%BF%9E%E6%8E%A5oracle+%E5%90%8E%2C+show+pdbs&sca_esv=603a9ee9df07f67e&sxsrf=AE3TifNCKmlGvk8WDQGxA7PtPUdVBzZ52w%3A1750320300286&ei=rMRTaOCDEZbX1e8PgpGDyQw&ved=0ahUKEwjgifedg_2NAxWWa_UHHYLIIMkQ4dUDCBI&uact=5&oq=sqlplus+%E8%BF%9E%E6%8E%A5oracle+%E5%90%8E%2C+show+pdbs&gs_lp=Egxnd3Mtd2l6LXNlcnAiI3NxbHBsdXMg6L-e5o6lb3JhY2xlIOWQjiwgc2hvdyBwZGJzMgUQIRigAUiJM1AAWMgscAF4AJABAJgBiAGgAe0QqgEEMC4xOLgBA8gBAPgBAZgCE6ACzRHCAgUQABiABMICBRAAGO8FwgIIEAAYgAQYogSYAwCSBwQxLjE4oAeZKLIHBDAuMTi4B8sRwgcHMS45LjguMcgHQQ&sclient=gws-wiz-serp&safe=active&ssui=on | sqlplus 连接oracle 后, show pdbs - Google 搜索
+https://www.google.com/search?q=oracle+%E9%87%8C%E7%9A%84SID%E5%92%8CService+Name%E5%8C%BA%E5%88%AB&oq=oracle+%E9%87%8C%E7%9A%84SID%E5%92%8CService+Name%E5%8C%BA%E5%88%AB&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDkzMDVqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | oracle 里的SID和Service Name区别 - Google 搜索
+https://www.google.com.hk/search?q=Github+Copilot+%E6%94%AF%E4%BB%98&oq=Github+Copilot+%E6%94%AF%E4%BB%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExOTAzajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | Github Copilot 支付 - Google 搜索
+https://bebingocard.com/wiki/github-copilo-2/ | GitHub Copilot购买指南：详细订阅教程及付款方式解析
+https://docs.github.com/zh/billing/managing-billing-for-your-products/managing-billing-for-github-copilot/about-billing-for-github-copilot | 关于 GitHub Copilot 的计费 - GitHub 文档
+https://docs.github.com/zh/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/billing-and-payments/about-billing-for-individual-copilot-plans | 关于个人版 Copilot 计划的计费 - GitHub 文档
+https://bebingocard.com/wiki/github-copilo/ | GitHub Copilot订阅方法详解，如何轻松开通？
+https://www.oldmoon.top/post/156 | 开通Github Copilot
+https://www.google.com/search?q=springboot+2.3+%E9%9B%86%E6%88%90+feign&oq=springboot+2.3+%E9%9B%86%E6%88%90+feign&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwNjU3ajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | springboot 2.3 集成 feign - Google 搜索
+https://blog.csdn.net/yangguangniubi/article/details/107142727 | springboot2.3.X整合Feign_springboot2.3 使用feign-CSDN博客
+https://juejin.cn/post/6844903896364793863 | SpringBoot2.x直接整合Feign实现远程接口调用[尝鲜]之前也用过Feign，不过是在SpringCloud - 掘金
+https://www.sojson.com/ | JSON在线 | JSON解析格式化—SO JSON在线工具
+https://app.apifox.com/project/5356892 | 个人项目
+https://www.google.com.hk/search?q=feign+content-type+application%2Fjson%2Bstream+%E5%A6%82%E4%BD%95%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96&sca_esv=df01bcb31997a21e&ei=nulTaNG2Of25vr0Pts6-0As&ved=0ahUKEwjR_ZW8pv2NAxX9nK8BHTanD7oQ4dUDCBI&uact=5&oq=feign+content-type+application%2Fjson%2Bstream+%E5%A6%82%E4%BD%95%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96&gs_lp=Egxnd3Mtd2l6LXNlcnAiPWZlaWduIGNvbnRlbnQtdHlwZSBhcHBsaWNhdGlvbi9qc29uK3N0cmVhbSDlpoLkvZXlj43luo_liJfljJYyBRAhGKABSNrUAVDCUVjT0gFwBngBkAEAmAGYAaABnBuqAQQzLjI4uAEDyAEA-AEBmAIioALCGcICChAAGLADGNYEGEfCAgUQABjvBcICCBAAGIAEGKIEmAMAiAYBkAYDkgcEOC4yNqAHhmqyBwQyLjI2uAeiGcIHBzAuMTUuMTnIB2k&sclient=gws-wiz-serp&safe=active&ssui=on | feign content-type application/json+stream 如何反序列化 - Google 搜索
+https://xiexugang-1778838.postman.co/workspace/3b997711-d347-4f3b-8757-47b6c2612a80/team-quickstart | Getting started - xiexugang's Workspace
+https://xiexugang-1778838.postman.co/settings/me/api-keys | API keys
+https://www.google.com/search?q=postman+%E5%93%AA%E9%87%8C%E6%89%BE%E5%88%B0authorization+token&oq=postman+%E5%93%AA%E9%87%8C%E6%89%BE%E5%88%B0authorization+token&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDc4OTRqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | postman 哪里找到authorization token - Google 搜索
+https://community.postman.com/t/where-is-authorization-token-on-postman-desktop/34992/4 | Where is authorization token on Postman Desktop? - New to APIs/Postman - Postman Community
+https://identity.getpostman.com/browser-auth/success?redirect_uri=postman%3A%2F%2Fauth%2Fcallback&code=7d46b87f7de94582aa991e085aeed3b8b8428366615e397040f25acaa8bf0824 | Postman - Browser Based Auth
+https://www.google.com/search?q=org.apache.http.entity.mime.content.ContentBody+maven+%E4%BE%9D%E8%B5%96&sca_esv=8be39d41f3b8291e&sxsrf=AE3TifPr4EKmh_76YqMtlASd4iGejSaXCA%3A1750383515954&ei=m7tUaLzsOcrO2roPzMWZgAc&ved=0ahUKEwj8pcHd7v6NAxVKp1YBHcxiBnAQ4dUDCBI&uact=5&oq=org.apache.http.entity.mime.content.ContentBody+maven+%E4%BE%9D%E8%B5%96&gs_lp=Egxnd3Mtd2l6LXNlcnAiPG9yZy5hcGFjaGUuaHR0cC5lbnRpdHkubWltZS5jb250ZW50LkNvbnRlbnRCb2R5IG1hdmVuIOS-nei1ljIFEAAY7wUyCBAAGIAEGKIEMgUQABjvBTIFEAAY7wVIlwdQAFjHBnAAeAGQAQCYAZABoAGQAaoBAzAuMbgBA8gBAPgBAfgBApgCAaAClQGYAwCSBwMwLjGgB8EBsgcDMC4xuAeVAcIHAzItMcgHBA&sclient=gws-wiz-serp&safe=active&ssui=on | org.apache.http.entity.mime.content.ContentBody maven 依赖 - Google 搜索
+https://blog.csdn.net/u010104750/article/details/78213348 | java.lang.NoClassDefFoundError: org/apache/http/entity/mime/content/ContentBody-CSDN博客
+https://mvnrepository.com/artifact/org.apache.httpcomponents | Maven Repository: org.apache.httpcomponents
+https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore | Maven Repository: org.apache.httpcomponents » httpcore
+https://www.cnblogs.com/subendong/p/9558542.html | 使用httpclient需要的maven依赖 - 屌丝大叔的笔记 - 博客园
+https://www.google.com.hk/search?q=win11+%E8%93%9D%E7%89%99%E6%89%BE%E4%B8%8D%E5%88%B0%E7%B4%A2%E5%B0%BC%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA&newwindow=1&sca_esv=8be39d41f3b8291e&ei=qsdUaI7NCfHL1e8P1Jqh0AQ&ved=0ahUKEwiOypCd-v6NAxXxZfUHHVRNCEoQ4dUDCBI&uact=5&oq=win11+%E8%93%9D%E7%89%99%E6%89%BE%E4%B8%8D%E5%88%B0%E7%B4%A2%E5%B0%BC%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ3dpbjExIOiTneeJmeaJvuS4jeWIsOe0ouWwvOiTneeJmeiAs-acujIFECEYoAFIxWZQ2QpYnV9wAXgAkAEAmAGBAaABiRaqAQQyNC41uAEDyAEA-AEBmAIeoALgFsICCxAAGIAEGLADGKIEwgIIEAAYsAMY7wXCAggQIRigARjDBMICCBAAGIAEGKIEwgIFEAAY7wWYAwCIBgGQBgWSBwQyMi44oAfsO7IHBDIxLji4B9cWwgcGMS4yNy4yyAc_&sclient=gws-wiz-serp&safe=active&ssui=on | win11 蓝牙找不到索尼蓝牙耳机 - Google 搜索
+https://www.sony.com/zh-cn/electronics/support/wireless-headphones-bluetooth-headphones/wf-1000x/articles/00196750 | 耳机与Windows 11, 10,和 8.1的配对过程 | Sony China
+https://answers.microsoft.com/zh-hans/windows/forum/all/win11/cd23f4b1-e92d-4dd8-8949-a7f850ee53cd | win11 蓝牙搜索不到 索尼wh-1000xm3 耳机 - Microsoft Community
+http://172.27.180.33:443/cd/metro-type | Metrology Type - LISAP
+https://mvnrepository.com/artifact/com.alibaba/fastjson/2.0.57 | Maven Repository: com.alibaba » fastjson » 2.0.57
+https://www.google.com/search?q=fastjson+string+to+object&oq=fastjson+string+to+object&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY2MThqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | fastjson string to object - Google 搜索
+https://blog.csdn.net/shippingxing/article/details/49449087 | 利用fastjson进行json字符串与对象互转_fastjosn string to object-CSDN博客
+https://www.cnblogs.com/ibigboy/p/11124524.html | com.alibaba.fastjson.JSONObject之对象与JSON转换方法 - 问北 - 博客园
+https://translate.google.com/?sl=auto&tl=zh-CN&text=canonical&op=translate | Google 翻译
+https://www.google.com/search?q=fastjson+JSONObject.parseObject+string%E8%BD%AC%E5%8F%98%E6%88%90List%3CObject%3E&oq=fastjson+JSONObject.parseObject++string%E8%BD%AC%E5%8F%98%E6%88%90List%3CObject%3E&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTgwNTkyajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | fastjson JSONObject.parseObject string转变成List<Object> - Google 搜索
+https://www.google.com/search?q=httpclient+%E5%A6%82%E4%BD%95%E6%A0%B9%E6%8D%AEurl+%E8%8E%B7%E5%8F%96%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9&oq=httpclient+%E5%A6%82%E4%BD%95%E6%A0%B9%E6%8D%AEurl+%E8%8E%B7%E5%8F%96%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDk0MzRqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | httpclient 如何根据url 获取文件内容 - Google 搜索
+
+chrome://downloads/ | 下载记录
+
+https://myasml.asml.com/ | myASML Home
+file:///C:/dev/code/webapp/src/main/resources/asml/ler/Ler0_79e9c490.xml | Ler0_79e9c490.xml
+file:///C:/dev/code/webapp/src/main/resources/asml/metrology/1d4ff996-5a9b-41ad-ad4b-970dfd19e11f.xml | 1d4ff996-5a9b-41ad-ad4b-970dfd19e11f.xml
+https://cloud.tencent.com/developer/article/1401836 | 利用 JDK 自带的 org.w3c.dom 进行对象, map 与 xml 的互相转换-腾讯云开发者社区-腾讯云
+https://www.cnblogs.com/refine/articles/2000723.html | java操作DOM节点的添加，删除，修改 - Refine - 博客园
+https://www.google.com/search?q=Collectors.groupingBy+%E6%80%8E%E4%B9%88%E8%BD%AC%E6%8D%A2%E6%88%90LinkedHashMap&oq=Collectors.groupingBy+%E6%80%8E%E4%B9%88%E8%BD%AC%E6%8D%A2%E6%88%90LinkedHashMap&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDc4NTdqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | Collectors.groupingBy 怎么转换成LinkedHashMap - Google 搜索
+https://translate.google.com/?sl=auto&tl=zh-CN&text=provisioning&op=translate | Google 翻译
+https://shimo.im/folder/jwQK6TwdJwXxTkV3 | docker - 石墨文档
+https://shimo.im/docs/v9YYprPKhQdvHjRC | docker命令
+https://shimo.im/docs/JrHJyQPWxXpRDVJk | docker安装常用-redis,mysql,mongodb,tomcat,nginx
+https://hub.docker.com/_/mysql | mysql - Official Image | Docker Hub
+https://hub.docker.com/search?q=oracle | Explore Docker's Container Image Repository | Docker Hub
+https://login.docker.com/u/login/identifier?state=hKFo2SBXZ1lVTmRxSEwtWXJGRmZ3ckNHQm5UWDNieFM0ZndOaqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHBoMHA2VmxjY25pWmJHZkJVUzJuS1RkRDVVWVRvZE1Oo2NpZNkgRmkyQ0VleDZtMzhkS1lxdnZaWVljSms5SUN0cGc3ZzQ | login.docker.com/u/login/identifier?state=hKFo2SBXZ1lVTmRxSEwtWXJGRmZ3ckNHQm5UWDNieFM0ZndOaqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHBoMHA2VmxjY25pWmJHZkJVUzJuS1RkRDVVWVRvZE1Oo2NpZNkgRmkyQ0VleDZtMzhkS1lxdnZaWVljSms5SUN0cGc3ZzQ
+https://www.google.com.hk/search?q=docker+pull+mysql+%E7%89%88%E6%9C%AC%E8%AF%AD%E6%B3%95&sca_esv=6bb957c311c6c09a&ei=_J9TaKjUH8721e8Ppe_t2Qg&ved=0ahUKEwiowsuf4PyNAxVOe_UHHaV3O4sQ4dUDCBI&uact=5&oq=docker+pull+mysql+%E7%89%88%E6%9C%AC%E8%AF%AD%E6%B3%95&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmRvY2tlciBwdWxsIG15c3FsIOeJiOacrOivreazlTIFECEYoAEyBRAhGKABMgUQIRigAUifIFCCBljqHnAHeAGQAQCYAY0BoAGDB6oBAzAuOLgBA8gBAPgBAZgCDqACtgbCAgoQABiwAxjWBBhHwgIFEAAY7wXCAggQABiABBiiBJgDAIgGAZAGCpIHAzcuN6AH6xGyBwMwLje4B5QGwgcHMC42LjcuMcgHLg&sclient=gws-wiz-serp&safe=active&ssui=on | docker pull mysql 版本语法 - Google 搜索
+https://www.google.com.hk/search?q=docker+%E5%90%AF%E5%8A%A8mysql-server&oq=docker+%E5%90%AF%E5%8A%A8mysql-server&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDU4NzZqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | docker 启动mysql-server - Google 搜索
+https://www.runoob.com/docker/docker-install-mysql.html | Docker 安装 MySQL | 菜鸟教程
+https://cunzaima.cn/mysql8.4-zh/dev.mysql.com/doc/refman/8.4/en/docker-mysql-getting-started.html | MySQL :: MySQL 8.4 Reference Manual :: 2.5.6.1 Basic Steps for MySQL Server Deployment with Docker
+https://www.google.com.hk/search?q=docker+%E5%90%AF%E5%8A%A8MySQL+%E6%8C%82%E8%BD%BD%2Fetc%2Fmysql%2Fconf.d&oq=docker+%E5%90%AF%E5%8A%A8MySQL+%E6%8C%82%E8%BD%BD%2Fetc%2Fmysql%2Fconf.d&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE0MTkxajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | docker 启动MySQL 挂载/etc/mysql/conf.d - Google 搜索
+https://blog.csdn.net/njpkhuan/article/details/131280951 | 在 Docker 中部署 Mysql 并挂载配置文件_docker mysql 配置文件-CSDN博客
+https://blog.csdn.net/c15158032319/article/details/126388168 | 解决docker启动mysql容器失败问题_dockermysql启动失败-CSDN博客
+https://php.watch/articles/fix-php-mysql-84-mysql_native_password-not-loaded | How to fix `mysql_native_password` not loaded errors on MySQL 8.4 • PHP.Watch
+https://www.cnblogs.com/toutou/p/17943700/DBeaver_Public_Key_Retrieval_is_not_allowed | DBeaver Public Key Retrieval is not allowed - 请叫我头头哥 - 博客园
+https://www.google.com/search?q=zhuyijun%2Foracle&oq=zhuyijun%2Foracle&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg6MgYIAhBFGDzSAQczNDZqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | zhuyijun/oracle - Google 搜索
+https://github.com/oracle/docker-images/issues/2716 | run 19c · Issue #2716 · oracle/docker-images
+https://www.cnblogs.com/liwenchao1995/p/16690010.html | oracle docker部署19c - liwenchao1995 - 博客园
+https://juejin.cn/post/7138328948236107813 | Linux中使用docker部署oracle19c本文已参与「新人创作礼」活动，一起开启掘金创作之路。 1.拉取镜像 2 - 掘金
+
+https://stackoverflow.com/questions/23057988/file-size-exceeds-configured-limit-2560000-code-insight-features-not-availabl | intellij idea - File size exceeds configured limit (2560000), code insight features not available - Stack Overflow
+https://www.google.com/search?q=IDEA+%E8%AE%BE%E7%BD%AE%E8%B0%83%E5%A4%A7%E5%86%85%E5%AD%98&oq=IDEA+%E8%AE%BE%E7%BD%AE%E8%B0%83%E5%A4%A7%E5%86%85%E5%AD%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwNzI4ajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | IDEA 设置调大内存 - Google 搜索
+https://blog.csdn.net/qq_30019911/article/details/84647033 | IntellIJ Idea 修改内存大小_怎么修改idea的内存大小-CSDN博客
+https://www.quanxiaoha.com/idea/idea-set-memory.html | IDEA 设置内存大小，让 IDEA 更流畅 - 犬小哈教程
+https://www.google.com/search?q=w3c+dom+%E8%8E%B7%E5%8F%96Element%E5%85%83%E7%B4%A0%E5%80%BC&oq=w3c+dom+%E8%8E%B7%E5%8F%96Element%E5%85%83%E7%B4%A0%E5%80%BC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDk1OTJqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | w3c dom 获取Element元素值 - Google 搜索
+https://blog.csdn.net/sinat_34937826/article/details/103309842 | 详细列举DOM获取元素的几种方法_移动端获取元素的dom-CSDN博客
+https://mvnrepository.com/artifact/org.apache.commons/commons-collections4/4.5.0 | Maven Repository: org.apache.commons » commons-collections4 » 4.5.0
+https://xugangxie.github.io/2022/07/13/15.003%20%E7%AC%94%E8%AE%B0-%E5%B8%B8%E7%94%A8%E4%B8%89%E6%96%B9%E5%B7%A5%E5%85%B7%E7%B1%BB%E7%94%A8%E6%B3%95%E8%AE%B0%E5%BD%95/#22-maven-settings-xml-%E9%85%8D%E7%BD%AE-%E9%98%BF%E9%87%8C%E4%BA%91%E9%95%9C%E5%83%8F | 笔记-开发常用笔记 | xugang.xie's blog
+
+https://myasml.asml.com/ | 
+
+https://myasml.asml.com/
+https://www.google.com/search?q=wsl.exe+exited+with+code+4294967295&oq=wsl.exe+exited+with+code+4294967295&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQ0OWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | wsl.exe exited with code 4294967295 - Google 搜索
+https://stackoverflow.com/questions/70953842/error-wsl-exe-exited-with-code-4294967295-on-installing-rancher-desktop | kubernetes - Error: wsl.exe exited with code 4294967295 on Installing Rancher Desktop - Stack Overflow
+https://github.com/rancher-sandbox/rancher-desktop/issues/4625 | Error: wsl.exe exited with code 4294967295 · Issue #4625 · rancher-sandbox/rancher-desktop
+https://github.com/rancher-sandbox/rancher-desktop/issues/1328 | Error: wsl.exe exited with code 4294967295 · Issue #1328 · rancher-sandbox/rancher-desktop
+https://www.google.com/search?q=Rancher+Desktop+%E5%90%AF%E5%8A%A8+containerd+%E8%BF%98%E6%98%AF+dockerd&sca_esv=75796267c5338491&sxsrf=AE3TifPyjyjtRcwrOskV-MKQNweKvFjPDg%3A1750137909029&ei=NfxQaITJAfHz4-EPiO7uyAQ&ved=0ahUKEwjEt4Dj2_eNAxXx-TgGHQi3G0kQ4dUDCBA&uact=5&oq=Rancher+Desktop+%E5%90%AF%E5%8A%A8+containerd+%E8%BF%98%E6%98%AF+dockerd&gs_lp=Egxnd3Mtd2l6LXNlcnAiMFJhbmNoZXIgRGVza3RvcCDlkK_liqggY29udGFpbmVyZCDov5jmmK8gZG9ja2VyZDIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIESIGFAVDbCFjqfnADeACQAQGYAb0BoAGrPKoBBDAuNDe4AQPIAQD4AQGYAi2gAqM3wgILEAAYgAQYsAMYogTCAggQABiwAxjvBcICBBAjGCfCAgoQIxiABBgnGIoFwgIFEAAYgATCAgQQABgewgIGEAAYCBgewgIGEAAYChgewgIFECEYoAHCAggQABgIGAoYHsICBhAhGAoYKsICCRAhGKABGAoYKsICBxAhGKABGAqYAwCIBgGQBgWSBwQzLjQyoAfAigGyBwQwLjQyuAeON8IHBzAuMjQuMjHIB5IB&sclient=gws-wiz-serp&safe=active&ssui=on | Rancher Desktop 启动 containerd 还是 dockerd - Google 搜索
+https://developer.aliyun.com/article/883835 | 又一款神器：半小时带你轻松上手k8s-阿里云开发者社区
+https://www.cnblogs.com/rancherlabs/p/15988812.html | 一文玩儿转 Rancher Desktop - RancherLabs - 博客园
+https://forums.rancher.cn/t/dockerd-moby-rancher-desktop-docker-cli/560 | 使用 dockerd(moby) 启动 Rancher desktop ，启动成功后，docker cli 无法使用 - RancherDesktop - Rancher 中文论坛
+https://documentation.suse.com/cloudnative/rancher-manager/latest/zh/integrations/rancher-desktop.html | 桌面上的 Kubernetes 与 Rancher Desktop :: Rancher product documentation
+https://www.bookstack.cn/read/rancherdesktop-1.11-zh/3da44e22d1bf827b.md | How-to Guides - ODO 与 Rancher Desktop - 《Rancher Desktop v1.11 中文文档》 - 书栈网 · BookStack
+https://shimo.im/recent | 最近文件 - 石墨文档
+https://www.google.com/search?q=rancher+desktop+%E9%85%8D%E7%BD%AE%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E5%BA%93&sca_esv=dde00597a35db47c&sxsrf=AE3TifMXbo6PZyTqKI7QwZ0vqJNYQ748xw%3A1750139546696&ei=mgJRaLqiKvCOvr0P-Ylq&ved=0ahUKEwi61_Pv4feNAxVwh68BHfmEGgAQ4dUDCBA&uact=5&oq=rancher+desktop+%E9%85%8D%E7%BD%AE%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E5%BA%93&gs_lp=Egxnd3Mtd2l6LXNlcnAiJXJhbmNoZXIgZGVza3RvcCDphY3nva7lm73lhoXplZzlg4_lupMyBRAhGKABSI1AUMAEWKI-cAp4AZABAJgBpQGgAdsfqgEEMC4yOLgBA8gBAPgBAZgCJKAC3x7CAgoQABiwAxjWBBhHwgIEECMYJ8ICBRAAGIAEwgIEEAAYHsICBxAAGIAEGBPCAgYQABgTGB7CAggQABgTGAgYHsICCBAAGIAEGKIEwgIFEAAY7wXCAgcQIRigARgKmAMAiAYBkAYGkgcFMTAuMjagB-xMsgcEMC4yNrgHpR7CBwkwLjIwLjE1LjHIB30&sclient=gws-wiz-serp&safe=active&ssui=on | rancher desktop 配置国内镜像库 - Google 搜索
+https://juejin.cn/post/7212101184709001273 | Rancher Desktop 下 docker 使用国内源 [Win11]Rancher Desktop 下 dock - 掘金
+https://blog.csdn.net/takujo/article/details/134621192 | mac rancher desktop 修改docker镜像源_mac docker 修改镜像源-CSDN博客
+https://www.bejson.com/otherformat/xmlsort/ | XML排序、压缩、格式化-BeJSON.com
+https://www.freecodecamp.org/chinese/news/xml-formatting-in-notepad-how-to-format-xml-files/ | Notepad++ 中的 XML 格式化——如何格式化 XML 文件
+https://www.google.com/search?q=idea+the+file+size+exceeds+the+configured+limit&sca_esv=aee332ba488ac271&sxsrf=AE3TifMS7W4rdpXWj12oWSwgHrxRyZgO4w%3A1750210939169&ei=exlSaOWSCuSjvr0PkJqU6Q4&oq=IDEA+The+fie&gs_lp=Egxnd3Mtd2l6LXNlcnAiDElERUEgVGhlIGZpZSoCCAAyBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBhAAGA0YHjIGEAAYDRgeMggQABiABBiiBDIIEAAYogQYiQUyCBAAGIAEGKIESLNEUFVYuTdwA3gAkAEAmAGmAaABow2qAQQzLjEyuAEDyAEA-AEBmAIRoAL-DMICCxAAGIAEGLADGKIEwgIIEAAYsAMY7wXCAgQQIxgnwgIKEAAYgAQYQxiKBcICBRAAGIAEwgIHEAAYgAQYDMICBBAAGB7CAgsQABjHAxgIGAoYHsICBhAAGAUYHsICBhAAGAgYHsICCBAAGAgYChgewgIFECEYoAHCAggQABgEGAgYHsICBRAAGO8FwgIGEAAYChgewgIGEAAYDBgemAMAiAYBkAYEkgcEMy4xNKAHwjeyBwQwLjE0uAfsDMIHCDAuMi4xMi4zyAdS&sclient=gws-wiz-serp&safe=active&ssui=on | idea the file size exceeds the configured limit - Google 搜索
+https://stackoverflow.com/questions/23057988/file-size-exceeds-configured-limit-2560000-code-insight-features-not-availabl | intellij idea - File size exceeds configured limit (2560000), code insight features not available - Stack Overflow
+https://www.jetbrains.com/help/rider/Configuring_File_Size_Limit.html | Configure file size limits | JetBrains Rider Documentation
+https://www.jetbrains.com/help/clion/configuring-file-size-limit.html | File size and length limits | CLion Documentation
+https://www.google.com/search?q=springboot+%E4%B8%AD%E4%BD%BF%E7%94%A8w3c+dom%E6%93%8D%E4%BD%9Cxml+%E7%A4%BA%E4%BE%8B&sca_esv=2733a3999a04fae8&sxsrf=AE3TifN-CqJP3k12OLf9FMk_MxdnTF95nA%3A1750212042615&ei=yh1SaISyJbCdvr0P76CAyA4&ved=0ahUKEwiEv9P47_mNAxWwjq8BHW8QAOkQ4dUDCBA&uact=5&oq=springboot+%E4%B8%AD%E4%BD%BF%E7%94%A8w3c+dom%E6%93%8D%E4%BD%9Cxml+%E7%A4%BA%E4%BE%8B&gs_lp=Egxnd3Mtd2l6LXNlcnAiK3NwcmluZ2Jvb3Qg5Lit5L2_55SodzNjIGRvbeaTjeS9nHhtbCDnpLrkvosyCBAhGKABGMMESLwwUL0LWMMscAF4AJABAJgBxQGgAfsfqgEEMC4yNbgBA8gBAPgBAZgCCKACtwjCAggQABiwAxjvBcICBRAAGO8FmAMAiAYBkAYEkgcDMS43oAePN7IHAzAuN7gHrwjCBwUwLjIuNsgHHA&sclient=gws-wiz-serp&safe=active&ssui=on | springboot 中使用w3c dom操作xml 示例 - Google 搜索
+https://blog.csdn.net/qq_30006251/article/details/124603301 | springboot使用DOM4J解析XML文档_springboot dom4j-CSDN博客
+https://www.google.com/search?q=IDEA+Cannot+Create+Class&oq=IDEA+Cannot+Create+Class&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwNjMwajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | IDEA Cannot Create Class - Google 搜索
+https://www.cnblogs.com/tree-top/articles/15517707.html | idea 新建Java类报错Cannot Create Class解决办法 - 伍壹贰 - 博客园
+https://www.google.com/search?q=xpath+%E4%B8%AD%E5%A6%82%E6%9E%9C%E6%9C%89%E5%86%92%E5%8F%B7%E6%80%8E%E4%B9%88%E5%86%99&oq=xpath+%E4%B8%AD%E5%A6%82%E6%9E%9C%E6%9C%89%E5%86%92%E5%8F%B7%E6%80%8E%E4%B9%88%E5%86%99&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE0MjUyajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | xpath 中如果有冒号怎么写 - Google 搜索
+https://blog.csdn.net/weixin_39612023/article/details/113326136 | xpath中两个冒号_爬虫学习(5)—XPath-CSDN博客
+https://www.cnblogs.com/ghj1976/p/xpath-ding-wei-fu-hao.html | XPath 定位符号 - 蝈蝈俊 - 博客园
+https://cloud.tencent.com/developer/ask/sof/116593088 | 如果我的XPath元素中有“撇号”，该如何编写XPath呢？-腾讯云开发者社区-腾讯云
+https://www.google.com/search?q=list+stream+group+%E7%94%A8%E6%B3%95&oq=list+stream+group+%E7%94%A8%E6%B3%95&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE0NDI5ajBqMagCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on | list stream group 用法 - Google 搜索
+https://blog.csdn.net/weixin_41835612/article/details/83687088 | Java8 Stream groupingBy对List进行分组_java list stream group-CSDN博客
