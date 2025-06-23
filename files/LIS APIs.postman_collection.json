@@ -1,0 +1,165 @@
+{
+	"info": {
+		"_postman_id": "411bd0b7-54f4-4a72-9a7e-420228bcd595",
+		"name": "LIS APIs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1.document count",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"filterCriteria\": [\r\n        {\r\n            \"documentAttribute\": {\r\n                \"name\": \"LotId\",\r\n                \"type\": \"String\",\r\n                \"value\": \"%Dummy_%\"\r\n            },\r\n            \"operator\": \"LIKE\"\r\n        }\r\n    ],\r\n    \"page\": 0,\r\n    \"pageSize\": 10,\r\n    \"sortCriteria\": [\r\n        {\r\n            \"direction\": \"DESCENDING\",\r\n            \"name\": \"LotStart\"\r\n        }\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://edge-node-2.lda1.azure.asml.com:8080/documentstore/rest/document/count/ADELler/",
+					"protocol": "http",
+					"host": [
+						"edge-node-2",
+						"lda1",
+						"azure",
+						"asml",
+						"com"
+					],
+					"port": "8080",
+					"path": [
+						"documentstore",
+						"rest",
+						"document",
+						"count",
+						"ADELler",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2.document list",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"filterCriteria\": [\r\n        {\r\n            \"documentAttribute\": {\r\n                \"name\": \"LotId\",\r\n                \"type\": \"String\",\r\n                \"value\": \"Dummy_lot_tech1_0B6T_132\"\r\n            },\r\n            \"operator\": \"EQUALS\"\r\n        }\r\n    ],\r\n    \"page\": 0,\r\n    \"pageSize\": 10,\r\n    \"sortCriteria\": [\r\n        {\r\n            \"direction\": \"DESCENDING\",\r\n            \"name\": \"LotStart\"\r\n        }\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://edge-node-2.lda1.azure.asml.com:8080/documentstore/rest/document/list/ADELler/",
+					"protocol": "http",
+					"host": [
+						"edge-node-2",
+						"lda1",
+						"azure",
+						"asml",
+						"com"
+					],
+					"port": "8080",
+					"path": [
+						"documentstore",
+						"rest",
+						"document",
+						"list",
+						"ADELler",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3.document download",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"filterCriteria\": [\r\n        {\r\n            \"documentAttribute\": {\r\n                \"name\": \"LotId\",\r\n                \"type\": \"String\",\r\n                \"value\": \"Dummy_lot_tech1_0B6T_132\"\r\n            },\r\n            \"operator\": \"EQUALS\"\r\n        }\r\n    ],\r\n    \"page\": 0,\r\n    \"pageSize\": 10,\r\n    \"sortCriteria\": [\r\n        {\r\n            \"direction\": \"DESCENDING\",\r\n            \"name\": \"LotStart\"\r\n        }\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://edge-node-2.lda1.azure.asml.com:8080/documentstore/rest/document/list/ADELler/",
+					"protocol": "http",
+					"host": [
+						"edge-node-2",
+						"lda1",
+						"azure",
+						"asml",
+						"com"
+					],
+					"port": "8080",
+					"path": [
+						"documentstore",
+						"rest",
+						"document",
+						"list",
+						"ADELler",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4.upload file",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "CONTENT",
+							"type": "file",
+							"src": "/C:/dev/code/webapp/src/main/resources/asml/metrology/dummy3.xml"
+						},
+						{
+							"key": "DOCUMENTSOURCE",
+							"value": "UI",
+							"type": "text"
+						},
+						{
+							"key": "OVERWRITESTRATEGY",
+							"value": "ALWAYS",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://edge-node-2.lda1.azure.asml.com:8080/documentstore/rest/document",
+					"protocol": "http",
+					"host": [
+						"edge-node-2",
+						"lda1",
+						"azure",
+						"asml",
+						"com"
+					],
+					"port": "8080",
+					"path": [
+						"documentstore",
+						"rest",
+						"document"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
